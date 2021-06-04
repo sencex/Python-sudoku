@@ -3,7 +3,7 @@ astroid==2.3.3
 certifi==2019.11.28
 chardet==3.0.4
 cycler==0.10.0
-Django==3.0.3
+Django==3.1.9
 idna==2.9
 image==1.5.28
 isort==4.3.21
